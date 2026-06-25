@@ -36,26 +36,28 @@
 <p>Frontend Developer & Cybersecurity Student</p>
 
 <div class="project">
+<h2>Global Aid Platform</h2>
+
+<a href="https://github.com/MalakKassab1/global-aid-platform">
+View Project
+</a>
     <h2>Global Aid Platform</h2>
     <p>Platform for connecting international organizations and aid requests.</p>
     <a href="#">View Project</a>
+
 </div>
 
-<div class="project">
-    <h2>global-aid-platform</h2>
-    <p>React website for company </p>
-    <a href="#">View Project</a>
-</div>
 
-<div class="project">
-    <h2>منصة تدريب ميداني </h2>
-    <p>laravel website for company </p>
-    <p>منصة تجمع بين الطالب والشركة والفرص المتاحة </p>
-    <a href="#">View Project</a>
-</div>
+
+
 
 <div class="project">
     <h2>company-platform</h2>
+	<h2>Global Aid Platform</h2>
+
+<a href="https://github.com/MalakKassab1/Company-website">
+View Project
+</a>
     <p>frontend website for company.</p>
     <a href="#">View Project</a>
 </div>
