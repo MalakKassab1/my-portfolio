@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Malak Portfolio</title>
+    <style>
+        body{
+            font-family: Arial;
+            background:#f8f8f8;
+            text-align:center;
+            padding:50px;
+        }
+
+        .project{
+            background:white;
+            margin:20px auto;
+            padding:20px;
+            width:70%;
+            border-radius:10px;
+            box-shadow:0 0 10px rgba(0,0,0,0.1);
+        }
+
+        a{
+            text-decoration:none;
+            color:white;
+            background:#ff69b4;
+            padding:10px 20px;
+            border-radius:5px;
+        }
+    </style>
+</head>
+
+<body>
+
+<h1>Malak Kassab Portfolio</h1>
+
+<p>Frontend Developer & Cybersecurity Student</p>
+
+<div class="project">
+    <h2>Global Aid Platform</h2>
+    <p>Platform for connecting international organizations and aid requests.</p>
+    <a href="#">View Project</a>
+</div>
+
+<div class="project">
+    <h2>global-aid-platform</h2>
+    <p>React website for company </p>
+    <a href="#">View Project</a>
+</div>
+
+<div class="project">
+    <h2>منصة تدريب ميداني </h2>
+    <p>laravel website for company </p>
+    <p>منصة تجمع بين الطالب والشركة والفرص المتاحة </p>
+    <a href="#">View Project</a>
+</div>
+
+<div class="project">
+    <h2>company-platform</h2>
+    <p>frontend website for company.</p>
+    <a href="#">View Project</a>
+</div>
+
+</body>
+</html>
